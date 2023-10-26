@@ -1,3 +1,4 @@
+![logo](https://github.com/ChristinaGas/ChristinaGas/blob/main/my_github_banner.png)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
